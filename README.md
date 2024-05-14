@@ -1,0 +1,5 @@
+![sowagar](https://github.com/hakimlokman/Event-Management-System-Web-Application/assets/159314943/14e84223-04b3-4be6-a58d-65a904d5fbd6)
+![login](https://github.com/hakimlokman/Event-Management-System-Web-Application/assets/159314943/a7fd0247-0810-44d6-b9f6-8ff356687c7e)
+![Customer](https://github.com/hakimlokman/Event-Management-System-Web-Application/assets/159314943/df901e78-abf4-4750-9f68-772d0195ef52)
+![Venue](https://github.com/hakimlokman/Event-Management-System-Web-Application/assets/159314943/3c8f1d9c-b703-4562-bdd9-69eb019fb9df)
+![booking](https://github.com/hakimlokman/Event-Management-System-Web-Application/assets/159314943/65bb66bb-093e-4ebd-aa81-9b0653ec384d)
