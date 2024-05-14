@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\servicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\servicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\rentalequipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\rentalequipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\foodtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\foodtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\customerbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\customerbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\customerregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\customerregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\data\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\data\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\data\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\data\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|d:\\idb materials\\final projects\\final projects\\token\\event_management_system\\event_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD065AE6-4A83-4536-B42D-3DE7FC41261C}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\WorkersController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:32.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\VenuesController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\VenuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:27.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\SuppliersController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:23.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceTypesController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\ServiceTypesController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\ServiceTypesController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\ServiceTypesController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\ServiceTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalEquipmentsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\RentalEquipmentsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\RentalEquipmentsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\RentalEquipmentsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\RentalEquipmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:06.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodTypeController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FoodTypeController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\FoodTypeController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FoodTypeController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\FoodTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:43.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipmentsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EquipmentsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\EquipmentsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EquipmentsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\EquipmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:16.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:43:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerBookingController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\CustomerBookingController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\CustomerBookingController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\CustomerBookingController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\CustomerBookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:42:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\BillController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\BillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:42:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRegistrationsController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\CustomerRegistrationsController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\CustomerRegistrationsController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\CustomerRegistrationsController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\CustomerRegistrationsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:09:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Data\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Data\\LoginDto.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Data\\LoginDto.cs",
+              "RelativeToolTip": "Event_Management_System\\Data\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:05:30.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Event_Management_System\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:00:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Program.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Program.cs",
+              "RelativeToolTip": "Event_Management_System\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwF4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:51:13.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Data\\JwtOption.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Data\\JwtOption.cs",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\Data\\JwtOption.cs",
+              "RelativeToolTip": "Event_Management_System\\Data\\JwtOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:50:18.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\appsettings.json",
+              "RelativeDocumentMoniker": "Event_Management_System\\appsettings.json",
+              "ToolTip": "D:\\idb materials\\Final Projects\\Final Projects\\Token\\Event_Management_System\\Event_Management_System\\appsettings.json",
+              "RelativeToolTip": "Event_Management_System\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T11:45:41.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
